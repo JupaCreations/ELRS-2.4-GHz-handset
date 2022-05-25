@@ -28,7 +28,7 @@ BOM
 
 4 x M3 4.2x5mm brass inserts
 
-4 x M3x16mm hexagone head screws
+4 x M3x16mm hexagon head screws
 
 2 x 4 wire cable 10 cm with JST-2.0 PH connector
 
