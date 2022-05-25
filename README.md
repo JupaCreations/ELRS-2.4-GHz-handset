@@ -25,6 +25,7 @@ The original Jumper T-Lite electronics are taken from a new handset and fitted w
 The 4 wire cable from the gimbals to the mainboard are replaced with a longer version as the handset is wider.
 
 BOM
+
 4 x M3 4.2x5mm brass inserts
 
 4 x M3x16mm hexagone head screws
