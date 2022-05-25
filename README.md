@@ -9,8 +9,11 @@ Two screws accesable from the top of the trasnmitter can loosend or fastend at e
 As this is a 2 channel application the left gimbal is for throttle and the right gimbal for steering.
 But if you fancy it switched OPENTX or EDGETX are your friend.
 For the ELRS part a DIY 2.4 GHz SX1280 with special PCB is used.
+
 PCB design https://oshwlab.com/jyesmith/expresslrs-jumper-t-lite
+
 Video 1 https://www.youtube.com/watch?v=8L0xCDgLQ8s
+
 Video 2 https://www.youtube.com/watch?v=rfa2Ir5jLuc
 
 The upper and lower cover are printed in PLA.
