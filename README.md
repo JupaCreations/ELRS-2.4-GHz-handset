@@ -23,3 +23,20 @@ The battery is a single 18650 3.3 volt cell.
 
 The original Jumper T-Lite electronics are taken from a new handset and fitted with the original screws in the upper cover.
 The 4 wire cable from the gimbals to the mainboard are replaced with a longer version as the handset is wider.
+
+BOM
+4 x M3 4.2x5mm brass inserts
+
+4 x M3x16mm hexagone head screws
+
+2 x 4 wire cable 10 cm with JST-2.0 PH connector
+
+1 x Jumper T-Lite handset for the electronics and gimbals
+
+1 x 3D printed parts in PLA or PETG filament
+
+1 x DIY 2.4 GHz Express LRS TX board
+
+1 x antenna connector from IPX-4 to SMA connector 5 cm length.
+
+1 x antenna 2.5 GHz SMA connector
