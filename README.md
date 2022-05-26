@@ -30,7 +30,7 @@ BOM
 
 4 x M3x16mm hexagon head screws
 
-2 x 4 wire cable 10 cm with JST-2.0 PH connector
+2 x wire cable 15cm with JST 1.25mm 4Pin Female connector
 
 1 x Jumper T-Lite handset for the electronics and gimbals
 
@@ -41,3 +41,5 @@ BOM
 1 x antenna connector from IPX-4 to SMA connector 5 cm length.
 
 1 x antenna 2.5 GHz SMA connector
+
+2 x spring steel 18650 battery contact
