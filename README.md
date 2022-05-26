@@ -1,13 +1,21 @@
-ELRS-2.4-GHz 2 channel CAR TX handset
+ELRS-2.4-GHz 2 channel CAR TX handset.
+
 This project is a rework of the ergonomic handset which can be found here.
+
 https://www.thingiverse.com/thing:4868117
 
 I reworked the upper and lower cover to make it comply to the needs of a simple 2 channel CAR TX handset with EXPRESSLRS as carrier.
+
 All switches are removed.
+
 The original Jumper T-Lite hall gimbals are placed in a way that they can be adjusted in an angle that comforts the movement of the thumb.
+
 Two screws accesable from the top of the trasnmitter can loosend or fastend at each gimbal in a desired angled position.
+
 As this is a 2 channel application the left gimbal is for throttle and the right gimbal for steering.
+
 But if you fancy it switched OPENTX or EDGETX are your friend.
+
 For the ELRS part a DIY 2.4 GHz SX1280 with special PCB is used.
 
 PCB design https://oshwlab.com/jyesmith/expresslrs-jumper-t-lite
