@@ -38,7 +38,7 @@ BOM
 
 1 x DIY 2.4 GHz Express LRS TX board
 
-1 x antenna connector from IPX-4 to SMA connector 5 cm length.
+1 x antenna connector from IP-4 to SMA connector 5 cm length.
 
 1 x antenna 2.5 GHz SMA connector
 
