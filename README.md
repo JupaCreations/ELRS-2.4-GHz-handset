@@ -21,7 +21,7 @@ The V2 version gimbal brackets are attached to the gimbal mounting holes with M3
 The brackets are clamped down with a retainer that has a M3 nut pressed in, in combination with M3x20mm screws. 
 
 As this is a 2 channel application the left gimbal is for throttle and the right gimbal for steering.
-With the "T-lite TX gimbal blocker" you can block the motion in the not used direction of the gimbal.
+With the "T-lite TX gimbal blocker" you can block the up/down motion in the not used direction of the gimbal.
 
 For the ELRS part a DIY 2.4 GHz SX1280 with special PCB is used.
 
