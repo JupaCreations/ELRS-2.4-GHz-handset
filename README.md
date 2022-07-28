@@ -18,7 +18,7 @@ There are two versions of gimbal clamps as Jumper redesigned the housing of the 
 
 I put M3 thread in the mounting holes of the gimbals. Drill a 2.5 mm drill through them first than use a 3mm thread tapping tool with care.
 The V2 version gimbal brackets are attached to the gimbal mounting holes with M3x8 mm screws.
-The brackets are clamped down with a retainder that has a M3 nut pressed in, in combination with M3x20mm screws. 
+The brackets are clamped down with a retainer that has a M3 nut pressed in, in combination with M3x20mm screws. 
 
 As this is a 2 channel application the left gimbal is for throttle and the right gimbal for steering.
 With the "T-lite TX gimbal blocker" you can block the motion in the not used direction of the gimbal.
