@@ -10,7 +10,13 @@ All switches are removed.
 
 The original Jumper T-Lite hall gimbals are placed in a way that they can be adjusted in an angle that comforts the movement of the thumb.
 
-Two screws accesable from the top of the trasnmitter can loosend or fastend at each gimbal in a desired angled position.
+Two screws accesable from the top of the trasnmitter can loosend or fastend at each gimbal to put it ina a desired angled position.
+There are two versions of gimbal clamps as Jumper redesigned the housing of the gimbals.
+V2 is for the gimbal versions that can not be clamped at the edges with the V1 version.
+
+I put M3 thread in the mounting holes of the gimbal. Drill a 2.5 mm drill through them first than use a 3mm tapping threadtool with care.
+The V2 version gimbal brackets are attached to the gimbal mounting holes with M3x8 mm screws.
+The brackets are clamped down with a retainder that has a M3 nut pressed in. 
 
 As this is a 2 channel application the left gimbal is for throttle and the right gimbal for steering.
 
