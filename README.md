@@ -23,7 +23,7 @@ The brackets are clamped down with a retainer that has a M3 nut pressed in, in c
 As this is a 2 channel application the left gimbal is for throttle and the right gimbal for steering.
 With the "T-lite TX gimbal blocker" you can block the up/down motion in the not used direction of the gimbal.
 
-For the ELRS part a DIY 2.4 GHz SX1280 with special PCB is used.
+For the ELRS part a DIY 2.4 GHz SX1280 with special PCB is used. When you use a Jumper T-lite V2 ELRS version as donor transnmitter this extra board is obsolete.
 
 PCB design https://oshwlab.com/jyesmith/expresslrs-jumper-t-lite
 
