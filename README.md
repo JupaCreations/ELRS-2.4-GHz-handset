@@ -1,5 +1,7 @@
 ELRS-2.4-GHz 2 channel CAR TX handset.
 
+![image](https://user-images.githubusercontent.com/17322922/181484705-b0a37a05-1376-4b9f-a9f9-ba5dee9704e3.png)
+
 This project is a rework of the ergonomic handset which can be found here.
 
 https://www.thingiverse.com/thing:4868117
@@ -62,5 +64,3 @@ BOM
 1 x antenna 2.5 GHz SMA connector (Jumper T-Lite is now also in a ELRS ready version 2 available which makes this part obsolete)
 
 2 x spring steel 18650 battery contact
-
-![image](https://user-images.githubusercontent.com/17322922/181484705-b0a37a05-1376-4b9f-a9f9-ba5dee9704e3.png)
