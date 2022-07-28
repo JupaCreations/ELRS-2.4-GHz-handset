@@ -42,6 +42,8 @@ The 4 wire cable from the gimbals to the mainboard might be to short in some cas
 The receiver is a Happy Model EP2 receiver which is mounted on a carrier board with a 5 volt regulator and the servo pins.
 There are pins available for 2 channels (throttle and steering) and for the timing transponder if you use it for racing events.
 
+![image](https://user-images.githubusercontent.com/17322922/181485859-2b33f0b9-06f7-442c-a66a-13e915312cab.png)
+
 BOM
 
 4 x M3 4.2x5mm brass inserts
