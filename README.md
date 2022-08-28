@@ -39,8 +39,10 @@ The battery is a single 18650 3.3 volt cell.
 The original Jumper T-Lite electronics are taken from a new handset and fitted with the original (4) screws in the upper cover.
 The 4 wire cable from the gimbals to the mainboard might be to short in some cases and need a longer version as the handset is wider.
 
-The receiver is a Happy Model EP2 receiver which is mounted on a carrier board with a 5 volt regulator and the servo pins.
+The receiver is a Happy Model EP2 receiver which is mounted on a DIY carrier board with a 5 volt regulator and the servo pins.
 There are pins available for 2 channels (throttle and steering) and for the timing transponder if you use it for racing events.
+Alternatively you can also use this receiver.
+https://www.mateksys.com/?portfolio=elrs-r24-p6
 
 ![image](https://user-images.githubusercontent.com/17322922/181485859-2b33f0b9-06f7-442c-a66a-13e915312cab.png)
 
