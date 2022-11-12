@@ -12,7 +12,7 @@ All switches are removed.
 
 The original Jumper T-Lite hall gimbals are placed in a way that they can be adjusted in an angle that comforts the movement of the thumb.
 
-Two screws accesable from the top of the trasnmitter can loosend or fastend at each gimbal to put it in a desired angled position.
+Two screws accesable from the top of the transmitter can loosend or fastend at each gimbal to put it in a desired angled position.
 There are two versions of gimbal clamps as Jumper redesigned the housing of the gimbals I found out.
 "T-lite TX gimbal retainer V2" is for the gimbal versions that can not be clamped at the edges with the "T-lite TX gimbal retainer" version.
 
